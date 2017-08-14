@@ -254,9 +254,9 @@ This chapter contains the information for risk warning. So, related intentional 
 - ICOCOIN affirmatively expresses that the relevent intention users clearly understand the risk of ICOCOIN platform. Once involving in investment the investors understand and accept the risk of the project, and are willing to personally bear all the corresponding results or consequences.
 
 - ICOCOIN expressly disclaims any direct or indirect loss of any participation in the ICOCOIN project including:
-- 1. The reliability of all information provided in this document;
-- 2. Thereby any error, inadvertent or inaccurate information;
-- 3. Or any resulting behavior. 
+- 1、The reliability of all information provided in this document;
+- 2、Thereby any error, inadvertent or inaccurate information;
+- 3、Or any resulting behavior. 
 
 ### ICOCOIN Token or ICOCOIN, is an encrypted token of ICOCOIN
 
