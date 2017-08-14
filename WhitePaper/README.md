@@ -21,5 +21,5 @@ The “best of both worlds” way is that Blockchain start-up companies can quic
 We can expect that with the rapid development of Blockchain technology and  the continuous redhot of ICO, there will be more and more Blockchain start-ups and projects born, they will use ICO way to start the funds, also produce more new tokens.
 In 2009, we almost only mentioned Bitcoin, but nowadays only Coinmarketcap contains 728 kinds of Crypto digital tokens, such as Ethereum, Ripple, Litecoin, Gnosis, and will show more in the future.
 The current market capitalization of the Crypto digital tokens on May 27th, 2017 is $88 billion, 809%2 higher than in 2014 (after the price crash), which is expected to reach $200 billion in two years. While the percentages of Bitcoin in total market capitalization fell to 48.3% (95% from 2013) and is expected to fall to 30% in two years. 
-
+Bitcoin and most other Altcoins have hit a record high recently, while ICO market is showing a hot scene at the same time.
 
