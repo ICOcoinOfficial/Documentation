@@ -1,4 +1,4 @@
-![ICO币网-全球优质企业区块链众筹交易平台](http://www.icocoin.org/logo/icocoin2.png "ICO币网-全球优质企业区块链众筹交易平台")
+![ICO币网-全球优质企业区块链众筹交易平台](http://118.190.78.127/p1.png "ICO币网-全球优质企业区块链众筹交易平台")
 [![Getting started with icocoin](http://118.190.78.127/spv.jpg)](https://imgcache.qq.com/tencentvideo_v1/playerv3/TPout.swf?max_age=86400&v=20161117&vid=h0531sol9qv&auto=0 "Getting started with icocoin")
 
 # ⅠExecution summary
@@ -32,6 +32,8 @@ The “best of both worlds” way is that Blockchain start-up companies can quic
 We can expect that with the rapid development of Blockchain technology and  the continuous redhot of ICO, there will be more and more Blockchain start-ups and projects born, they will use ICO way to start the funds, also produce more new tokens.
 
 In 2009, we almost only mentioned Bitcoin, but nowadays only Coinmarketcap contains 728 kinds of Crypto digital tokens, such as Ethereum, Ripple, Litecoin, Gnosis, and will show more in the future.
+
+![图](http://118.190.78.127/p2.png "图")
 
 The current market capitalization of the Crypto digital tokens on May 27th, 2017 is $88 billion, 809%2 higher than in 2014 (after the price crash), which is expected to reach $200 billion in two years. While the percentages of Bitcoin in total market capitalization fell to 48.3% (95% from 2013) and is expected to fall to 30% in two years. 
 
@@ -157,7 +159,7 @@ ICOCOIN will be used to offset the fees such as transaction fee of ICOCOIN regis
 
 We will work with the offline major security companies to develop a shared cooperation platform, to implement the free transaction between cross-stock and crypto tokens, and as a representative of digital coins, ICOCOIN directly participate in the stock trading in the offline security companies. In a word: We will formed a hybrid of Blockchain and Nasdaq. 
 
-4.3 Tokens allocation scheme
+## 4.3 Tokens allocation scheme
 A total of 200 million ICOCOIN tokens(ICO currency) will be created during the releasing of ICOCOIN.
 
 Among them, 50% of ICOCOIN tokens, namely 100 million will be used for ICO, and token ICO will be officially opened at 15:00 June 9th, 2017(Beijing time).
