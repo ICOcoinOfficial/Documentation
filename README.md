@@ -266,7 +266,7 @@ ICOCOIN 明确表示不承担任何参与 ICOCOIN 项目造成的直接或间接
 
 - ICOCOIN 代币，或 “ICO 币”，是一个 ICOCOIN 使用的加密代币。
 
-在写这段文字时，(i)ICO 币不能用来购买相关物品或者服务；(ii) ICO 币在ICOCOIN 并没有太多实际的用处。
+在写这段文字时，(i)ICO 币不能用来购买相关物品或者服务；(ii) ICO 币在ICOCOIN 并没有太多实际的用处。 
 
 ICO 币不是一种投资。
 
